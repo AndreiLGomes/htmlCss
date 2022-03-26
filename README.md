@@ -56,3 +56,102 @@ esse é um projeto que atualmente estou estudando, vai html/css simples até um 
 - [ ] Blockquote, q, cite, em, strong
 ---
 ### 05 CSS Propriedades
+- [ ] Unidades 1
+- [ ] Unidades 2
+- [ ] Tipografia
+- [ ] Background 1
+- [ ] Backgrond 2
+- [ ] Pseudo Classes 1
+- [ ] Pseudo Classes 2
+- [ ] Pseudo Elements
+- [ ] Refatorar Exercício 1
+- [ ] Refatorar Exercício 2
+- [ ] Refatorar Exercício 3
+---
+### 06 Responsivo
+- [ ] Responsivo
+- [ ] Media Queries
+- [ ] Grid
+- [ ] Object Fit
+- [ ] Max Width
+- [ ] Responsivo Exercício
+---
+### 07 Projeto Portfólio
+- [ ] Primeiros Passos
+- [ ] Design e Código
+- [ ] Estilos Inicias
+- [ ] Header
+- [ ] Introdução
+- [ ] Experiência HTML
+- [ ] Experiência CSS 1
+- [ ] Experiência CSS 2
+- [ ] Formação HTML 1
+- [ ] Formação CSS 1
+- [ ] Formação CSS 2
+- [ ] Footer
+- [ ] Otimizações
+---
+### 08 Ferramentas
+- [ ] Instalar Ferramentas
+- [ ] Linha de Comando
+- [ ] Npm e Cleancss
+- [ ] git 1
+- [ ] git 2
+- [ ] fonts
+---
+### 09 Mais HTML e CSS
+- [ ] Formulários 1
+- [ ] Formulários 2
+- [ ] Formulários 3
+- [ ] Formulários 4
+- [ ] Outros Seletores
+- [ ] Especificidade
+- [ ] Propriedades Customizadas
+- [ ] Modo Claro e Escuro
+- [ ] CSS Utilitário 1
+- [ ] CSS Utilitário 2
+---
+### 10 Projeto Final
+- [ ] Análise Projeto
+- [ ] Estrutura Inicial
+- [ ] Repositório Git
+- [ ] Header e Menu 1
+- [ ] Header e Menu 2
+- [ ] Introdução 1
+- [ ] Introdução 2
+- [ ] Box Shadow
+- [ ] Introdução Responsiva
+- [ ] Tipografia
+- [ ] Import CSS
+- [ ] Tipografia Utilitária 1
+- [ ] Tipografia Utilitária 2
+- [ ] Bicicletas Lista 1
+- [ ] Bicicletas Lista 2
+- [ ] Container
+- [ ] Tecnologia 1
+- [ ] Tecnologia 2
+- [ ] Parceiros
+- [ ] Depoimento
+- [ ] Seguros
+- [ ] Footer
+- [ ] Termos
+- [ ] Bicicletas 1
+- [ ] Bicicletas 2
+- [ ] Bicicletas 3
+- [ ] Seguros 1
+- [ ] Seguros 2
+- [ ] Bicicleta Interna 1
+- [ ] Bicicleta Interna 2
+- [ ] Bicicleta Outras
+- [ ] Bicicleta Seguro
+- [ ] Contato Dados 1
+- [ ] Contato Dados 2
+- [ ] Contato Formulário
+- [ ] Contato Lojas
+- [ ] Orçamento 1
+- [ ] Orçamento 2
+- [ ] Orçamento 3
+- [ ] Orçamento 4
+- [ ] Orçamento 5
+- [ ] Decoração
+- [ ] Otimizações

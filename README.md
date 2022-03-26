@@ -174,3 +174,20 @@ esse é um projeto que atualmente estou estudando, vai html/css simples até um 
 - [ ] Solucionar Problemas
 ---
 ### 12 JavaScript Projeto
+- [ ] Menu Ativo
+- [ ] Parâmetros URL
+- [ ] Perguntas Frequentes
+- [ ] Galeria Imagens
+- [ ] Plugin Externo
+- [ ] JavaScript Desativado
+---
+### 13 Produção
+- [ ] Otimizar Produção
+- [ ] Hospedagem 1
+- [ ] Hospedagem 2
+- [ ] Acessar Servidor
+- [ ] Formulário PHP
+- [ ] Formulário JavaScript
+---
+### 14 Considerações Finais
+- [ ] HTML e CSS para Iniciantes Conclusão

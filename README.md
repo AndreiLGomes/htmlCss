@@ -155,3 +155,6 @@ esse é um projeto que atualmente estou estudando, vai html/css simples até um 
 - [ ] Orçamento 5
 - [ ] Decoração
 - [ ] Otimizações
+---
+### 11 JavaScript Básico
+- [ ] JavaScript

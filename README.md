@@ -158,3 +158,19 @@ esse é um projeto que atualmente estou estudando, vai html/css simples até um 
 ---
 ### 11 JavaScript Básico
 - [ ] JavaScript
+- [ ] Manipular DOM
+- [ ] Tipos de Dados
+- [ ] Objetos
+- [ ] Funções 1
+- [ ] Funções 2
+- [ ] Eventos 1
+- [ ] Eventos 2
+- [ ] Eventos 3
+- [ ] Condicionais 1
+- [ ] Condicionais 2
+- [ ] Arrays e Loops 1
+- [ ] Arrays e Loops 2
+- [ ] Arrays e Loops 3
+- [ ] Solucionar Problemas
+---
+### 12 JavaScript Projeto

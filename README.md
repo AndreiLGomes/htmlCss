@@ -11,9 +11,9 @@ esse é um projeto que atualmente estou estudando, vai html/css simples até um 
 - [X] Browser
 ---
 ### 02 HTML e CSS Básico
-- [ ] Tag
-- [ ] Tags Inicias
-- [ ] Estrutura HTML
+- [X] Tag
+- [X] Tags Inicias
+- [X] Estrutura HTML
 - [ ] Editor Plugins
 - [ ] Editor Atalhos
 - [ ] Link Caminhos

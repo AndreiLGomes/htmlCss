@@ -14,11 +14,11 @@ esse é um projeto que atualmente estou estudando, vai html/css simples até um 
 - [X] Tag
 - [X] Tags Inicias
 - [X] Estrutura HTML
-- [ ] Editor Plugins
-- [ ] Editor Atalhos
-- [ ] Link Caminhos
-- [ ] CSS Básico
-- [ ] CSS Seletores
+- [X] Editor Plugins
+- [X] Editor Atalhos
+- [X] Link Caminhos
+- [X] CSS Básico
+- [X] CSS Seletores
 - [ ] HTML Exercício
 - [ ] Background e Cores
 - [ ] Box Model 1

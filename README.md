@@ -19,7 +19,7 @@ esse é um projeto que atualmente estou estudando, vai html/css simples até um 
 - [X] Link Caminhos
 - [X] CSS Básico
 - [X] CSS Seletores
-- [ ] HTML Exercício
+- [X] HTML Exercício
 - [ ] Background e Cores
 - [ ] Box Model 1
 - [ ] Box Model 2

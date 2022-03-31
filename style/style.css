@@ -1,21 +1,5 @@
-.hoje {
-  color: darkred;
-  font-size: 20px;
-}
-
-.amanha {
-  color: darkblue;
-  font-size: 20px;
-}
-
-.link {
-  text-decoration: none;
-}
-
-.link2 {
-  color: seagreen;
-}
-
-body {
-  font-family: Arial, Helvetica, sans-serif;
+.corFundo {
+  background-color: rgba(94, 80, 156, 0.747);
+  color: rgb(103, 165, 45);
+  font-size: 40px;
 }

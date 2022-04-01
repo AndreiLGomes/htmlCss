@@ -20,11 +20,11 @@ esse é um projeto que atualmente estou estudando, vai html/css simples até um 
 - [X] CSS Básico
 - [X] CSS Seletores
 - [X] HTML Exercício
-- [ ] Background e Cores
-- [ ] Box Model 1
-- [ ] Box Model 2
-- [ ] Estilos do Browser
-- [ ] Display
+- [X] Background e Cores
+- [X] Box Model 1
+- [X] Box Model 2
+- [X] Estilos do Browser
+- [X] Display
 - [ ] Display Exercício
 - [ ] Documentação
 - [ ] Imagens 1
